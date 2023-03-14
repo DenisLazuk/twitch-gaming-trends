@@ -2,8 +2,8 @@
 ## Project on practicing SQL skills and visualization
 
 ### Project Objectives:
-*1. Analyze Twitch Gaming Data (Using SQL)*
-*2. Visualize Twitch Gaming Data (Using Matplotlib)*
+- [x] 1. Analyze Twitch Gaming Data (Using SQL)
+- [x] 2. Visualize Twitch Gaming Data (Using Matplotlib)
 
 ### Technologies used:
 ```
@@ -13,9 +13,8 @@ Jupyter Notebook
 
 ### Dataset used:
 ```
-- [x] [`stream.csv`](stream.csv)
-- [x] [`chat.csv`](chat.csv)
-
+`stream.csv`
+`chat.csv`
 ```
 
 The `stream.csv` has the following fields:
